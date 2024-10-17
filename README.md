@@ -1,0 +1,1 @@
+This repository contains raw data from experiments characterizing Kirigami oscillators. Tests were conducted at Purdue University's Ray W. Herrick Laboratories by the Advanced Dynamics and Mechanics (ADAMS) Lab under the guidance of Dr. James Gibert. Contributors: Joshua Jenkins, Francesco Danzi, Hongcheng Tao, Christian Silva, Dr. James Gibert.
